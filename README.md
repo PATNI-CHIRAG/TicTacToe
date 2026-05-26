@@ -34,16 +34,6 @@ TicTacToe/
 │── tictactoe.js
 ```
 
----
-
-## 📸 Preview
-
-### Game UI
-
-![Game Screenshot](./Screenshot%202026-05-26%20125409.png)
-
----
-
 ## ▶️ How to Run
 
 ### 1️⃣ Clone Repository
